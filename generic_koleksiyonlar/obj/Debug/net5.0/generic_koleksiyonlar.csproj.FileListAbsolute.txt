@@ -1,0 +1,16 @@
+C:\Users\volkan\OneDrive\Belgeler\pratikler\generic_koleksiyonlar\bin\Debug\net5.0\generic_koleksiyonlar.exe
+C:\Users\volkan\OneDrive\Belgeler\pratikler\generic_koleksiyonlar\bin\Debug\net5.0\generic_koleksiyonlar.deps.json
+C:\Users\volkan\OneDrive\Belgeler\pratikler\generic_koleksiyonlar\bin\Debug\net5.0\generic_koleksiyonlar.runtimeconfig.json
+C:\Users\volkan\OneDrive\Belgeler\pratikler\generic_koleksiyonlar\bin\Debug\net5.0\generic_koleksiyonlar.runtimeconfig.dev.json
+C:\Users\volkan\OneDrive\Belgeler\pratikler\generic_koleksiyonlar\bin\Debug\net5.0\generic_koleksiyonlar.dll
+C:\Users\volkan\OneDrive\Belgeler\pratikler\generic_koleksiyonlar\bin\Debug\net5.0\ref\generic_koleksiyonlar.dll
+C:\Users\volkan\OneDrive\Belgeler\pratikler\generic_koleksiyonlar\bin\Debug\net5.0\generic_koleksiyonlar.pdb
+C:\Users\volkan\OneDrive\Belgeler\pratikler\generic_koleksiyonlar\obj\Debug\net5.0\generic_koleksiyonlar.csproj.AssemblyReference.cache
+C:\Users\volkan\OneDrive\Belgeler\pratikler\generic_koleksiyonlar\obj\Debug\net5.0\generic_koleksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\volkan\OneDrive\Belgeler\pratikler\generic_koleksiyonlar\obj\Debug\net5.0\generic_koleksiyonlar.AssemblyInfoInputs.cache
+C:\Users\volkan\OneDrive\Belgeler\pratikler\generic_koleksiyonlar\obj\Debug\net5.0\generic_koleksiyonlar.AssemblyInfo.cs
+C:\Users\volkan\OneDrive\Belgeler\pratikler\generic_koleksiyonlar\obj\Debug\net5.0\generic_koleksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\volkan\OneDrive\Belgeler\pratikler\generic_koleksiyonlar\obj\Debug\net5.0\generic_koleksiyonlar.dll
+C:\Users\volkan\OneDrive\Belgeler\pratikler\generic_koleksiyonlar\obj\Debug\net5.0\ref\generic_koleksiyonlar.dll
+C:\Users\volkan\OneDrive\Belgeler\pratikler\generic_koleksiyonlar\obj\Debug\net5.0\generic_koleksiyonlar.pdb
+C:\Users\volkan\OneDrive\Belgeler\pratikler\generic_koleksiyonlar\obj\Debug\net5.0\generic_koleksiyonlar.genruntimeconfig.cache
